@@ -1,0 +1,11 @@
+// SeedKeeper 样式变量
+$primary-color: #4CAF50;
+$success-color: #8BC34A;
+$warning-color: #FF9800;
+$error-color: #F44336;
+$info-color: #2196F3;
+
+// Vuetify 主题覆盖
+@use 'vuetify/settings' with (
+  $color-pack: false
+);

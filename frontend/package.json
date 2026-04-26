@@ -1,0 +1,26 @@
+{
+  "name": "seedkeeper-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vuetify": "^3.5.0",
+    "@mdi/font": "^7.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "typescript": "^5.3.0",
+    "vite": "^5.0.0",
+    "vue-tsc": "^1.8.0",
+    "@originjs/vite-plugin-federation": "^1.3.0",
+    "vite-plugin-vuetify": "^2.0.0",
+    "sass": "^1.69.0"
+  }
+}
