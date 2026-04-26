@@ -4,12 +4,11 @@
     "description": "做种助手 - 智能管理 MoviePilot 转移后的种子做种任务，解决转移后 qBittorrent 无法做种和硬链接失败的问题",
     "labels": ["做种", "下载管理", "自动化"],
     "version": "1.0.0",
-    "icon": "mdi-seed",
-    "author": "SeedKeeper",
+    "icon": "Moviepilot_A.png",
+    "author": "ShukeBta",
     "level": 1,
-    "homepage": "https://github.com/seedkeeper/seedkeeper",
-    "git": "https://github.com/seedkeeper/seedkeeper",
-    "render": "vue",
+    "homepage": "https://github.com/ShukeBta/SeedKeeper",
+    "git": "https://github.com/ShukeBta/SeedKeeper",
     "frontend": true,
     "history": {
       "1.0.0": "初始版本，支持做种任务管理、分享率策略、做种时间限制、Vue 远程组件"
